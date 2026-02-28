@@ -11,6 +11,12 @@ This project is a multi-page, mobile-first marketing site built to convert local
 - Gallery, FAQ, blog, and legal pages
 - SEO-ready site structure and deployment configuration
 
+## Screenshots
+
+![Elbey homepage hero](docs/images/hero.webp)
+![Services page conversion sections](docs/images/feature-01.webp)
+![FAQ page trust and objection handling](docs/images/feature-02.webp)
+
 ## Stack
 
 - Next.js
